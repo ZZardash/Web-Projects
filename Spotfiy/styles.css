@@ -163,6 +163,7 @@ body {
 }
 
 .spotify-playlists{
+    right: 150px;
     padding: 20px 40px;
 }
 .spotify-playlists h2{
